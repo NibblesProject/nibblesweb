@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app-BceFUPcv.js";const n={};function o(r,c){return t(),a("div")}const s=e(n,[["render",o],["__file","1.html.vue"]]),l=JSON.parse('{"path":"/categories/ziyuanfenxiang/wodeshijie/1.html","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{s as comp,l as data};
