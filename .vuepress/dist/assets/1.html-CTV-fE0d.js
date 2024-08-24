@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./app-DFYi-PFb.js";const l={};function o(r,c){return e(),a("div")}const i=t(l,[["render",o],["__file","1.html.vue"]]),s=JSON.parse('{"path":"/tags/Bilibili/1.html","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{i as comp,s as data};
