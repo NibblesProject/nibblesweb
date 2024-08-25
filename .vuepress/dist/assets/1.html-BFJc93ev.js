@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./app-DFYi-PFb.js";const r={};function o(s,c){return t(),a("div")}const l=e(r,[["render",o],["__file","1.html.vue"]]),_=JSON.parse('{"path":"/tags/VuePress/1.html","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{l as comp,_ as data};

@@ -109,6 +109,10 @@ export default defineUserConfig({
           </ul>`,
           style: "font-size: 12px;",
         },
+        {
+          type: "text",
+          content: `<script defer src="https://umami.nibbles.cyou/script.js" data-website-id="6ae640d6-6fe8-4e5b-ae5d-717075b01505"></script>`,
+        }
       ],
     },
     // commentConfig: {
